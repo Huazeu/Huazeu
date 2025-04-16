@@ -28,9 +28,14 @@
 
 ## 我的 GitHub 统计 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huazeu&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huazeu&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huazeu&layout=compact&langs_count=6)
+
+> 如果你也对技术、编程或者开源有热情，不妨一起交流、合作！一起让技术变得更有趣！🎉
+
+## 我的贡献图 🌟
+
 ![Huazeu's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Huazeu&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huazeu&layout=compact)
 
 
 > 如果你也对技术、编程或者开源有热情，不妨一起交流、合作！一起让技术变得更有趣！🎉
