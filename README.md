@@ -23,12 +23,15 @@
 
 这里是我创建的一些项目，欢迎查看与尝试：
 
-- [**项目 1**](https://github.com/Huazeu/bilibili) - 这是我使用 **Spring Boot** 构建的一个小型应用，旨在学习和实践微服务架构。
-- [**项目 2**](https://github.com/Huazeu/) - 一个简单的 **Python** 项目，探索如何使用机器学习算法解决实际问题。
+- [**微服务视频网站**](https://github.com/Huazeu/bilibili) - 这是我使用 **Spring Boot** 构建的一个小型应用，旨在学习和实践微服务架构。
+- [**项目2**](https://github.com/Huazeu/) - 一个简单的 **Python** 项目，探索如何使用机器学习算法解决实际问题。
 
 ## 我的 GitHub 统计 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huazeu&show_icons=true&hide_title=true)
+![Huazeu's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Huazeu&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huazeu&layout=compact)
+
 
 > 如果你也对技术、编程或者开源有热情，不妨一起交流、合作！一起让技术变得更有趣！🎉
 
